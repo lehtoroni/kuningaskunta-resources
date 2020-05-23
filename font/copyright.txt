@@ -1,0 +1,18 @@
+This copyright notice applies to the following files in this folder:
+unicode_page_90.png
+unicode_page_91.png
+unicode_page_92.png
+unicode_page_93.png
+unicode_page_94.png
+unicode_page_95.png
+unicode_page_96.png
+unicode_page_97.png
+unicode_page_98.png
+unicode_page_99.png
+
+Copyright (c) 2013 WolfieMario
+
+You may redistribute or modify these resources as you wish, but this copyright notice must be distributed alongside them.
+
+I have released these fontsheets under the GNU General Public License, v3.0. You may view the details here:
+http://www.gnu.org/licenses/gpl.html
